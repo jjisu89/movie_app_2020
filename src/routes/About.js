@@ -6,7 +6,7 @@ function About() {
   return (
     <div className="about__container">
       <span>
-        Contact: (jji_su89@naver.coom).replace('_','')
+        Contact: (jji_su89@naver.c_om).replace('_','')
       </span>
     </div>
   );
